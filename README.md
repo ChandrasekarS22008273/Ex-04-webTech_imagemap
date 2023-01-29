@@ -188,7 +188,6 @@ producing very good results
 ![Screenshot61](https://user-images.githubusercontent.com/119643845/215338048-cea987ce-a053-4e53-a84a-ad057e97995b.jpeg)
 ![Screenshot58](https://user-images.githubusercontent.com/119643845/215338119-246b5238-e966-4fd9-a5a2-c5955808c93c.jpeg)
 ![Screenshot57](https://user-images.githubusercontent.com/119643845/215338130-f8e9f43e-6c79-425e-a36b-655bba0a96df.jpeg)
-![Screenshot57](https://user-images.githubusercontent.com/119643845/215338141-4fd2e0b4-f444-4964-9a6d-b6438179e5fb.jpeg)
 ![Screenshot55](https://user-images.githubusercontent.com/119643845/215338205-cccefdd6-d065-4cee-93a4-a5c4e0ed0085.jpeg)
 
 
